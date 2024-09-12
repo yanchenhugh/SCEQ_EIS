@@ -3,7 +3,7 @@ The code package for the project of SCEQ-EIS algorithm
 
 # files:
 ## Code files:
-*IRRf_can_error.gms: simulation and error checking for the model w/o EIS, or the Canonical Information Set (CIS)
+*IRRf_can_error.gms: simulation and error checking for the model w/o EIS, or the Canonical Information Set (CIS) \n
 *IRRf_eis_error.gms: simulation and error checking for the model w EIS
 *IRR_params_simp.gms: the parameter file
 
