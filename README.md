@@ -8,11 +8,11 @@ The code package for the project of SCEQ-EIS algorithm
 *IRR_params_simp.gms: the parameter file
 
 ## Simulation Results files:
-*model_sols_can_ghq7: results for the model w/o EIS, 1000 simulations.
+*model_sols_can_ghq7.csv: results for the model w/o EIS, 1000 simulations.
 **Column rgm1: 1 if the investment constraint is binding, 0 if nonbinding.
 **Column succ: 1 if the simulation solution is successful, 0 if fails.
 **Column succ err: 1 if solutions for all GHQ nodes in error checking are successful, 0 OW.
-*model_sols_eis_ghq7_x: results for the model w EIS, totally 1481 simulations. 
+*model_sols_eis_ghq7_x.csv: results for the model w EIS, totally 1481 simulations. 
 
 ## Result retrieving files:
 *get_Euler_error: .py and jupyter notebook file, the file to extract Euler errors from the simulation results files, written in python
