@@ -1,5 +1,5 @@
 # SCEQ_EIS
-The code package for the project of SCEQ-EIS algorithm
+The code package for the project of SCEQ-EIS algorithm, for nonlinear dynamic programming
 
 # files:
 ## Code files:
